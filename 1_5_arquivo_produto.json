@@ -1,0 +1,32 @@
+[
+  {
+    "descricao": "Leite em pó",
+    "valor": 20.99,
+    "embalagem": "Caixa",
+    "ICMS": 3.78
+  },
+  {
+    "descricao": "Leite Integral",
+    "valor": 10.0,
+    "embalagem": "Caixa",
+    "ICMS": 1.8
+  },
+  {
+    "descricao": "Pão de forma",
+    "valor": 5.8,
+    "embalagem": "Plástico",
+    "ICMS": 1.04
+  },
+  {
+    "descricao": "Ovo",
+    "valor": 2.0,
+    "embalagem": "Isopor",
+    "ICMS": 0.36
+  },
+  {
+    "descricao": "Macarrão",
+    "valor": 5.99,
+    "embalagem": "Plástico",
+    "ICMS": 1.08
+  }
+]
