@@ -4,6 +4,7 @@ Desenvolvimento da Fase 2 do projeto SGV (Sistema de Gerenciamento de Vídeos) d
 
 Comandos DML – População e Alteração de Dados no Banco SGV
 
+
 <img width="965" height="883" alt="image" src="https://github.com/user-attachments/assets/a8eb98e6-817b-423d-87eb-bb9ca0d48895" />
 
 Comandos DQL – Consultas e Extração de Dados no Banco SGV
